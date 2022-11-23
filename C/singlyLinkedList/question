@@ -1,0 +1,9 @@
+Funtion to implement single linked list with the following operations:
+1) Create a linked list
+2) Insert a node
+3) Delete a node
+4) Merge two linked list
+5) Reverse printing a linked list
+6) Searching in linked list
+7) Sorting a list
+8) Display the entire linked list
