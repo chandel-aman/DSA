@@ -1,0 +1,5 @@
+Create stack with the following opertions:
+1) Initialise the stack
+2) Push an element into the stack
+3) Pop the top element from the stack
+4) Display the entire stack
